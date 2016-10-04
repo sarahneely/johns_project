@@ -1,0 +1,42 @@
+.whole_body {
+  background-color: #ff8950;
+}
+
+.head_nav {
+
+}
+
+.head_carousel {
+  align-content: center;
+  height: 500px !important;
+  width: 100%;
+}
+
+.body_2 {
+  background-color: #ff8950;
+}
+
+.h1_logo {
+  font-family: 'Amatic SC', cursive;
+  color: #003B36;
+}
+
+.lorem_text {
+  font-family: 'Raleway', sans-serif;
+  color: #003B36;
+  font-weight: 800;
+}
+
+.body_3  {
+  background-color: #37FFEE;
+}
+
+.products {
+  font-family: 'Amatic SC', cursive;
+  color: #003B36;
+}
+
+.product_tnails {
+  height: 300px;
+  width: 300px;
+}
